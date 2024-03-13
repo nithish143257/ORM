@@ -47,7 +47,7 @@ class Book_DBAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![Screenshot (132)](https://github.com/nithish143257/ORM/assets/113762839/7927c3d1-d697-40eb-b9d5-2a4fcad6976f)
+![alt text](<Screenshot (132).png>)
 
 
 ## RESULT
